@@ -4,7 +4,7 @@
    height="64"
    width="64"
    version="1.1"
-   sodipodi:docname="internet-chat.svg"
+   sodipodi:docname="dissent.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,8 +24,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="7.0047766"
-     inkscape:cx="13.205275"
-     inkscape:cy="23.127076"
+     inkscape:cx="36.90339"
+     inkscape:cy="33.548536"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
      inkscape:window-x="0"
@@ -147,7 +147,7 @@
        gradientTransform="matrix(-1.1314701e-7,5.1320756,6.037736,1.3311414e-7,-86.830262,-176.75472)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient3895"
-       xlink:href="#linearGradient4223" />
+       xlink:href="#linearGradient4129" />
     <linearGradient
        y2="56"
        x2="36"
@@ -207,7 +207,7 @@
      d="M 44,38 A 18,6 0 1 1 8,38 18,6 0 1 1 44,38 z"
      transform="matrix(1.4444444,0,0,1.3333333,-9.0555555,-16.166667)" />
   <path
-     style="fill:url(#radialGradient3895);fill-opacity:1;stroke:#00096b;stroke-width:1;stroke-opacity:0.49803922"
+     style="fill:url(#radialGradient3895);fill-opacity:1;stroke:#002e99;stroke-width:1;stroke-opacity:0.49803922"
      d="m 41,6.5000004 c 7.479,0 13.5,6.0209986 13.5,13.4999996 l 0,3 c 0,7.479001 -6.021,13.5 -13.5,13.5 l -25,0 c -1.508329,0 -2.960202,-0.235146 -4.3125,-0.6875 -2.1919151,1.886124 -5.4164201,2.277714 -8.0625001,0.75 -0.182011,-0.105084 -0.36239,-0.225315 -0.53125,-0.34375 1.356763,-0.917691 2.607943,-2.042474 3.65625,-3.375 -2.6157,-2.459095 -4.25,-5.953705 -4.25,-9.84375 l 0,-3 c 0,-7.479001 6.021,-13.4999996 13.5000001,-13.4999996 l 25,0 z"
      id="path3887" />
   <path

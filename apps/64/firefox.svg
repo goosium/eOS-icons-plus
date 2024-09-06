@@ -4,7 +4,7 @@
    height="64"
    width="64"
    version="1.1"
-   sodipodi:docname="64ff.svg"
+   sodipodi:docname="64.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -15,7 +15,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     id="namedview39"
+     id="namedview892"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -23,16 +23,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="9.625"
-     inkscape:cx="24.987013"
-     inkscape:cy="40.623377"
-     inkscape:window-width="1634"
-     inkscape:window-height="1019"
-     inkscape:window-x="286"
-     inkscape:window-y="76"
+     inkscape:zoom="7.0047766"
+     inkscape:cx="24.697433"
+     inkscape:cy="32.691978"
+     inkscape:window-width="1345"
+     inkscape:window-height="787"
+     inkscape:window-x="192"
+     inkscape:window-y="210"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg3489"
-     inkscape:object-nodes="false" />
+     inkscape:current-layer="svg3489" />
   <defs
      id="defs3491">
     <linearGradient
@@ -69,11 +68,11 @@
        id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-3-8">
       <stop
          id="stop3750-8-9"
-         style="stop-color:#c000ff;stop-opacity:1"
+         style="stop-color:#8cd5ff;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3752-3-2"
-         style="stop-color:#c25dd6;stop-opacity:1"
+         style="stop-color:#64baff;stop-opacity:1"
          offset="0.26238" />
       <stop
          id="stop3754-7-2"
@@ -145,19 +144,19 @@
        id="linearGradient4223">
       <stop
          id="stop4225"
-         style="stop-color:#ffff33;stop-opacity:1"
+         style="stop-color:#ebcf48;stop-opacity:1"
          offset="0" />
       <stop
          id="stop4227"
-         style="stop-color:#ffb933;stop-opacity:1"
+         style="stop-color:#e0bd54;stop-opacity:1"
          offset="0.26238" />
       <stop
          id="stop4229"
-         style="stop-color:#ff1a1a;stop-opacity:1"
+         style="stop-color:#f83c3c;stop-opacity:1"
          offset="0.66093999" />
       <stop
          id="stop4231"
-         style="stop-color:#8e0404;stop-opacity:1"
+         style="stop-color:#ff0000;stop-opacity:1"
          offset="1" />
     </linearGradient>
   </defs>

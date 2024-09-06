@@ -4,7 +4,7 @@
    width="128"
    height="128"
    id="svg4379"
-   sodipodi:docname="internet-chat.svg"
+   sodipodi:docname="discord.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="8.0000001"
-     inkscape:cx="35.5625"
-     inkscape:cy="70.374999"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="92.277434"
+     inkscape:cy="89.80256"
      inkscape:window-width="1920"
      inkscape:window-height="1019"
      inkscape:window-x="0"
@@ -76,7 +76,7 @@
        gradientTransform="matrix(-2.2629402e-7,10.263208,12.075472,2.662038e-7,-174.16052,-349.97576)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient3895"
-       xlink:href="#linearGradient4223" />
+       xlink:href="#linearGradient4129" />
     <linearGradient
        id="linearGradient4223">
       <stop
@@ -205,7 +205,7 @@
        id="g4207"
        transform="translate(2,9.9999962)">
       <path
-         style="fill:url(#radialGradient3895);fill-opacity:1;stroke:#00096b;stroke-width:1;stroke-opacity:0.49803922"
+         style="fill:url(#radialGradient3895);fill-opacity:1;stroke:#002e99;stroke-width:1;stroke-opacity:0.49803922"
          d="m 81.5,16.5 c 14.958,0 27,12.04089 27,26.997518 l 0,5.999448 c 0,14.956628 -12.042,26.997518 -27,26.997518 l -50,0 c -3.016658,0 -5.920404,-0.470248 -8.625,-1.374874 C 18.49117,78.891512 12.04216,79.67462 6.75,76.619472 6.385978,76.409324 6.02522,76.168884 5.6875,75.932036 8.401026,74.096822 10.903386,71.847464 13,69.182656 7.7686,64.264918 4.5,57.27634 4.5,49.496966 l 0,-5.999448 C 4.5,28.54089 16.542,16.5 31.5,16.5 l 50,0 z"
          id="path3887" />
       <path
