@@ -60,7 +60,6 @@ mime_links = [
     ['office-database', 'application-x-sqlite3'],
     ['office-database', 'text-x-sql'],
 
-    ['package-x-generic', 'application-x-java-archive'],
     ['package-x-generic', 'package'],
 
     ['text-x-generic', 'application-x-gnome-theme-package'],
@@ -166,10 +165,10 @@ mime_links = [
 
 foreach link : mime_links
     foreach size: mime_sizes
-        install_symlink(
-            link[1] + '.svg',
-            install_dir: icon_dir / 'mimes' / size,
-            pointing_to: link[0] + '.svg',
+        meson.add_install_script(
+            symlink,
+            '--src', icon_dir / 'mimes' / size / link[0] + '.svg',
+            '--dest', icon_dir / 'mimes' / size / link[1] + '.svg'
         )
     endforeach
 endforeach
