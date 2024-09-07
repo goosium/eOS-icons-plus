@@ -2,7 +2,7 @@
 ![Firefox Icon](https://raw.githubusercontent.com/goosium/eOS-icons-plus/main/apps/64/firefox.svg)
 ![Discord Icon](https://raw.githubusercontent.com/goosium/eOS-icons-plus/main/apps/64/discord.svg)
 ![Terminal App Icon](https://raw.githubusercontent.com/elementary/icons/main/apps/64/utilities-terminal.svg)
-![Dialog Password Icon](https://raw.githubusercontent.com/elementary/icons/main/status/48/dialog-password.svg)
+![Spotify Icon](https://raw.githubusercontent.com/goosium/eOS-icons-plus/main/apps/48/spotify.svg)
 ![Empty Battery Icon](https://raw.githubusercontent.com/elementary/icons/main/status/48/battery-empty.svg)
 ![High Security Icon](https://raw.githubusercontent.com/elementary/icons/main/status/48/security-high.svg)
 ![Revert Document Icon](https://raw.githubusercontent.com/elementary/icons/main/actions/24/document-revert.svg)
