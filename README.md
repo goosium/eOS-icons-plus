@@ -1,6 +1,6 @@
 # eOS-icons-plus
-![Default App Icon](https://raw.githubusercontent.com/elementary/icons/main/apps/64/application-default-icon.svg)
-![Locale Preferences Icon](https://raw.githubusercontent.com/elementary/icons/main/categories/64/preferences-desktop-locale.svg)
+![Firefox Icon](https://raw.githubusercontent.com/goosium/eOS-icons-plus/main/apps/64/firefox.svg)
+![Discord Icon](https://raw.githubusercontent.com/goosium/eOS-icons-plus/main/apps/64/discord.svg)
 ![Terminal App Icon](https://raw.githubusercontent.com/elementary/icons/main/apps/64/utilities-terminal.svg)
 ![Dialog Password Icon](https://raw.githubusercontent.com/elementary/icons/main/status/48/dialog-password.svg)
 ![Empty Battery Icon](https://raw.githubusercontent.com/elementary/icons/main/status/48/battery-empty.svg)
