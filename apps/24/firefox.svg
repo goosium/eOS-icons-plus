@@ -4,7 +4,7 @@
    height="24"
    width="24"
    version="1.1"
-   sodipodi:docname="24.svg"
+   sodipodi:docname="firefox.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -12,8 +12,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   xmlns:cc="http://creativecommons.org/ns#">
   <sodipodi:namedview
      id="namedview33"
      pagecolor="#ffffff"
@@ -24,8 +23,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="18.679404"
-     inkscape:cx="35.547172"
-     inkscape:cy="38.812801"
+     inkscape:cx="10.894352"
+     inkscape:cy="17.398842"
      inkscape:window-width="1345"
      inkscape:window-height="787"
      inkscape:window-x="515"
@@ -126,19 +125,19 @@
        id="linearGradient4223">
       <stop
          id="stop4225"
-         style="stop-color:#ebcf48;stop-opacity:1"
+         style="stop-color:#fff394;stop-opacity:1"
          offset="0" />
       <stop
          id="stop4227"
-         style="stop-color:#e0bd54;stop-opacity:1"
+         style="stop-color:#ffe16b;stop-opacity:1"
          offset="0.26238" />
       <stop
          id="stop4229"
-         style="stop-color:#f83c3c;stop-opacity:1"
+         style="stop-color:#c6262e;stop-opacity:1"
          offset="0.66093999" />
       <stop
          id="stop4231"
-         style="stop-color:#ff0000;stop-opacity:1"
+         style="stop-color:#c6262e;stop-opacity:1"
          offset="1" />
     </linearGradient>
   </defs>
@@ -146,12 +145,7 @@
      id="metadata3951">
     <rdf:RDF>
       <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
+         rdf:about="" />
     </rdf:RDF>
   </metadata>
   <path

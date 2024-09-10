@@ -4,7 +4,7 @@
    width="48"
    height="48"
    id="svg4031"
-   sodipodi:docname="48.svg"
+   sodipodi:docname="firefox.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,13 +23,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="13.208333"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:zoom="6.6041665"
+     inkscape:cx="19.760253"
+     inkscape:cy="16.958991"
      inkscape:window-width="1345"
      inkscape:window-height="787"
-     inkscape:window-x="201"
-     inkscape:window-y="219"
+     inkscape:window-x="504"
+     inkscape:window-y="140"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4031" />
   <defs
@@ -113,19 +113,19 @@
        id="linearGradient4223">
       <stop
          id="stop4225"
-         style="stop-color:#ebcf48;stop-opacity:1"
+         style="stop-color:#fff394;stop-opacity:1"
          offset="0" />
       <stop
          id="stop4227"
-         style="stop-color:#e0bd54;stop-opacity:1"
+         style="stop-color:#ffe16b;stop-opacity:1"
          offset="0.26238" />
       <stop
          id="stop4229"
-         style="stop-color:#f83c3c;stop-opacity:1"
+         style="stop-color:#c6262e;stop-opacity:1"
          offset="0.66093999" />
       <stop
          id="stop4231"
-         style="stop-color:#ff0000;stop-opacity:1"
+         style="stop-color:#a10705;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <radialGradient
@@ -168,7 +168,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
